@@ -1,3 +1,3 @@
 # loan-descriptive-predictive-analysis
-## You are a credit analyst working for FNB Bank. Your responsibilities include analysing the loan applications and making recommendations to management, based upon your findings, to help them make data‐driven decisions on lending.
+You are a credit analyst working for FNB Bank. Your responsibilities include analysing the loan applications and making recommendations to management, based upon your findings, to help them make data‐driven decisions on lending.
 “Loan.csv” file includes data on 40,000 FNB customers that were granted a loan in the past and the respective outcome, i.e. whether they were identified as “write‐offs” or “not write‐offs”. Using this data, analyse the new loan applications whose data are provided in “NewApplications.csv” and try to predict whether each new applicant will repay the requested loan if it is approved.
